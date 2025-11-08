@@ -6,19 +6,19 @@ export const educations = [
     institution: "Bhartiya Vidyapeeth Pune",
   },
   {
-    id: 1,
+    id: 2,
     title: "Bachelor Degree",
     duration: "2008 - 2011",
     institution: "Annamalai University Chennai",
   },
   {
-    id: 2,
+    id: 3,
     title: "Higher Secondary Certificate",
     duration: "2005 - 2006",
     institution: "Uttar Pradesh Board",
   },
   {
-    id: 3,
+    id: 4,
     title: "Secondary School Certificate",
     duration: "2003 - 2004",
     institution: "Uttar Pradesh Board",
